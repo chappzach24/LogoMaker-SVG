@@ -7,6 +7,7 @@ const questions = [
     type: "input",
     message: "Enter three characters you would like for the LOGO",
     name: "characters",
+    maxLength: 3,
   },
 
   {
