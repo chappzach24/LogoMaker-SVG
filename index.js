@@ -17,7 +17,7 @@ const questions = [
 
   {
     type: "list",
-    choices: [circle, triangle, square],
+    choices: ['circle', 'triangle', 'square'],
     message: "Select the shape you would like",
     name: "shape",
   },
@@ -34,14 +34,13 @@ const questions = [
 function writeToFile(fileName, data) {
   fs.writeFile(fileName, data, (err) => {
     if (err) throw err;
-    console.log(data.license);
-    console.log("The file has been saved!");
+    
   });
 }
 
 function init() {
   inquirer.prompt(questions).then((response) => {
-    writeToFile("logo.svg", generateMarkdown(response));
+   
   });
 }
 
