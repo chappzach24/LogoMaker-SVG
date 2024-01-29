@@ -8,6 +8,8 @@ This Node.js script empowers you to effortlessly craft personalized logos by sea
 ![alt text](https://github.com/chappzach24/LogoMaker-SVG/blob/main/lib/Photos/Screenshot%202024-01-29%20182145.png)
 ![alt text](https://github.com/chappzach24/LogoMaker-SVG/blob/main/lib/Photos/Screenshot%202024-01-29%20182319.png)
 
+[![NPM](https://nodei.co/npm/electron-download.png?downloads=true)](https://www.npmjs.com/package/electron-download)  
+
 ## Usage
 
 1. Clone the repository:
