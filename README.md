@@ -1,15 +1,76 @@
 # LogoMaker-SVG
-GIVEN a command-line application that accepts user input
-WHEN I am prompted for text
-THEN I can enter up to three characters
-WHEN I am prompted for the text color
-THEN I can enter a color keyword (OR a hexadecimal number)
-WHEN I am prompted for a shape
-THEN I am presented with a list of shapes to choose from: circle, triangle, and square
-WHEN I am prompted for the shape's color
-THEN I can enter a color keyword (OR a hexadecimal number)
-WHEN I have entered input for all the prompts
-THEN an SVG file is created named `logo.svg`
-AND the output text "Generated logo.svg" is printed in the command line
-WHEN I open the `logo.svg` file in a browser
-THEN I am shown a 300x200 pixel image that matches the criteria I entered
+
+This Node.js script empowers you to effortlessly craft personalized logos by seamlessly combining text and geometric shapes. Elevate your branding or add a touch of creativity to your projects with this simple yet versatile logo creator.
+
+## A SVG Logo generator
+![alt text](https://github.com/chappzach24/Weather-ServerSideAPI/blob/main/assets/Photos/weatherapi.png)
+![alt text](https://github.com/chappzach24/Weather-ServerSideAPI/blob/main/assets/Photos/weatherapi.png)
+![alt text](https://github.com/chappzach24/Weather-ServerSideAPI/blob/main/assets/Photos/weatherapi.png)
+
+## Usage
+
+1. Clone the repository:
+
+    ```bash
+    git clone git@github.com:chappzach24/LogoMaker-SVG.git
+    ```
+
+2. Navigate to the project directory:
+
+    ```bash
+    cd your-logoMaker
+    ```
+
+3. Install dependencies:
+
+    ```bash
+    npm install
+    ```
+
+4. Run the script:
+
+    ```bash
+    node index.js
+    ```
+
+5. Follow the prompts to customize your logo.
+
+6. The generated logo will be saved as `logo.svg` in the project directory.
+
+## Requirements
+
+- Node.js (version 12 or higher)
+- npm (Node Package Manager)
+
+### Text
+
+- Enter three characters for the logo text when prompted.
+
+### Text Color
+
+- Specify the color you want for the text when prompted.
+
+### Shape
+
+- Choose a shape from the given options: Circle, Triangle, Square.
+
+### Shape Color
+
+- Specify the color you want for the selected shape.
+
+## Validation
+
+- The script validates that the text input has exactly three letters.
+
+## Dependencies
+
+- [inquirer](https://www.npmjs.com/package/inquirer) - For interactive command-line user interfaces.
+- [fs](https://nodejs.org/api/fs.html) - For file system operations.
+
+## Contributing
+
+Feel free to contribute to enhance the functionality or fix any issues. Create a pull request, and we'll be happy to review it.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
