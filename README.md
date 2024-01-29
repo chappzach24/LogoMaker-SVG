@@ -2,10 +2,11 @@
 
 This Node.js script empowers you to effortlessly craft personalized logos by seamlessly combining text and geometric shapes. Elevate your branding or add a touch of creativity to your projects with this simple yet versatile logo creator.
 
-## A SVG Logo generator
-![alt text](https://github.com/chappzach24/Weather-ServerSideAPI/blob/main/assets/Photos/weatherapi.png)
-![alt text](https://github.com/chappzach24/Weather-ServerSideAPI/blob/main/assets/Photos/weatherapi.png)
-![alt text](https://github.com/chappzach24/Weather-ServerSideAPI/blob/main/assets/Photos/weatherapi.png)
+[Video on how to use this app](https://drive.google.com/file/d/1-Qpfpxih7ndAaLrK7auVvcOjDcCzz5m2/view?usp=sharing)
+
+![alt text](https://github.com/chappzach24/LogoMaker-SVG/blob/main/lib/Photos/Screenshot%202024-01-29%20182021.png)
+![alt text](https://github.com/chappzach24/LogoMaker-SVG/blob/main/lib/Photos/Screenshot%202024-01-29%20182145.png)
+![alt text](https://github.com/chappzach24/LogoMaker-SVG/blob/main/lib/Photos/Screenshot%202024-01-29%20182319.png)
 
 ## Usage
 
