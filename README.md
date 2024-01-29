@@ -2,7 +2,8 @@
 
 This Node.js script empowers you to effortlessly craft personalized logos by seamlessly combining text and geometric shapes. Elevate your branding or add a touch of creativity to your projects with this simple yet versatile logo creator.
 
-## A SVG Logo generator
+[Video on how to use this app](https://drive.google.com/file/d/1-Qpfpxih7ndAaLrK7auVvcOjDcCzz5m2/view?usp=sharing)
+
 ![alt text](https://github.com/chappzach24/Weather-ServerSideAPI/blob/main/assets/Photos/weatherapi.png)
 ![alt text](https://github.com/chappzach24/Weather-ServerSideAPI/blob/main/assets/Photos/weatherapi.png)
 ![alt text](https://github.com/chappzach24/Weather-ServerSideAPI/blob/main/assets/Photos/weatherapi.png)
@@ -39,8 +40,9 @@ This Node.js script empowers you to effortlessly craft personalized logos by sea
 
 ## Requirements
 
-- Node.js (version 12 or higher)
-- npm (Node Package Manager)
+- Node.js
+
+- npm 
 
 ### Text
 
@@ -74,3 +76,7 @@ Feel free to contribute to enhance the functionality or fix any issues. Create a
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+
+
+
